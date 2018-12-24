@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "764273536764",
+    "firebase_url": "https://geofirelocation-e2c72.firebaseio.com",
+    "project_id": "geofirelocation-e2c72",
+    "storage_bucket": "geofirelocation-e2c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764273536764:android:c001fc111a2e811e",
+        "android_client_info": {
+          "package_name": "com.razy.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764273536764-1lpuaget91hqv1palbj3bcpmhhis22b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.razy.location",
+            "certificate_hash": "602fb5744e445c313708b55b09623900282c4e34"
+          }
+        },
+        {
+          "client_id": "764273536764-uc1upho6mviqbigu5i161eful8i361u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDzNuQNR94Q43juTRFb6jOXCLDVv8s9Ng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764273536764-uc1upho6mviqbigu5i161eful8i361u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
